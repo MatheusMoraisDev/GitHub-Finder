@@ -1,6 +1,6 @@
 const Error = () => {
   return (
-    <div>Usuário não encontrado</div>
+    <div><p>Usuário não encontrado</p></div>
   )
 }
 
